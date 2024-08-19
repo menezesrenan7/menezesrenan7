@@ -1,8 +1,7 @@
 ## Hi there! I'm Renan Menezes! :)
 ### Wellcome to board!
 
-- 💻 I'm a full stack web developer student
-- 🌱 I’m currently learning Sequelize
+- 💻 I'm a front-end web developer in progress.
 
  <div>
   <a href="https://github.com/menezesrenan7">
